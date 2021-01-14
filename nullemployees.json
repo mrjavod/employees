@@ -1,0 +1,31 @@
+[ {
+  "id" : 1,
+  "first_name" : "Javod",
+  "last_name" : "Ne'matov",
+  "second_name" : "",
+  "birthday" : "1995-12-21",
+  "passport_seria" : "AB",
+  "passport_number" : "54321",
+  "salary" : 30000000,
+  "position" : {
+    "id" : 5,
+    "name" : "guard"
+  },
+  "address" : {
+    "id" : 1,
+    "region_id" : 2,
+    "region_name" : "Samarqand",
+    "home_address" : "Olmazor tuman, Q/q 1/4"
+  },
+  "contacts" : [ {
+    "id" : 1,
+    "employee_id" : 1,
+    "contact_type" : "email",
+    "value" : "akbar@gmil.com"
+  }, {
+    "id" : 2,
+    "employee_id" : 1,
+    "contact_type" : "mobile",
+    "value" : "777-777-777"
+  } ]
+} ]
